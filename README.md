@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marcotulioaraujo
 - 👀 I’m interested in Grails and Java Development
-- 🌱 I’m currently learning Python and React
 - 💞️ I’m looking to collaborate on both in the above
 - 📫 How to reach me marco@inovasi.in
 
